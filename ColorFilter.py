@@ -33,7 +33,7 @@ blue_bound_low = [86, 31, 4]
 blue_bound_high = [220, 88, 50]
 
 yellow_bound_low = [0, 146, 190]
-yellow_bound_high = [153, 255, 255]
+yellow_bound_high = [120, 255, 255]
 
 
 while(True):
